@@ -9,5 +9,4 @@ const persona: Persona = {
 }
 
 console.log(persona.firstname);
-console.log(persona.lastname
-)
+console.log(persona.lastname);
